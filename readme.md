@@ -18,7 +18,7 @@ clima_project/
 ├─ atividade_04_numpy_rj/        # Atividade 4 (NumPy)
 │  └─ atividade4.ipynb
 ├─ atividade_05_matplotlib/      # Atividade 5 (plots comparativos)
-│  └─ atividade5.py
+│  └─ atividade5.ipynb
 ├─ atividade_06_pandas/          # Atividade 6 (Pandas análises e relatório xlsx)
 │  └─ atividade6.py
 ├─ data/
