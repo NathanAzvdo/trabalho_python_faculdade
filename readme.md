@@ -14,7 +14,7 @@ clima_project/
 ├─ atividade_02_vogais/          # Atividade 2 (strings multilinhas)
 │  └─ atividade2.py
 ├─ atividade_03_macae/           # Atividade 3 (ler xlsx -> txt -> plot)
-│  └─ atividade3.py
+│  └─ atividade3.ipynb
 ├─ atividade_04_numpy_rj/        # Atividade 4 (NumPy)
 │  └─ atividade4.py
 ├─ atividade_05_matplotlib/      # Atividade 5 (plots comparativos)
