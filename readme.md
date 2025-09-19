@@ -15,12 +15,16 @@ clima_project/
 │  └─ atividade2.py
 ├─ atividade_03_macae/           # Atividade 3 (ler xlsx -> txt -> plot)
 │  └─ atividade3.ipynb
+│  └─ analise_climatica_lib.py
 ├─ atividade_04_numpy_rj/        # Atividade 4 (NumPy)
 │  └─ atividade4.ipynb
+│  └─ operacoes_lib.py
 ├─ atividade_05_matplotlib/      # Atividade 5 (plots comparativos)
 │  └─ atividade5.ipynb
+│  └─ visualizacao_lib.py
 ├─ atividade_06_pandas/          # Atividade 6 (Pandas análises e relatório xlsx)
 │  └─ atividade6.ipynb
+│  └─ analise_lib.py
 ├─ data/
 │  └─ Dados_climaticos_historicos.xlsx  # Base de dados climática
 ├─ outputs/
