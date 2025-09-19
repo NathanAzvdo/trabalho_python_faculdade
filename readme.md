@@ -26,4 +26,5 @@ clima_project/
 ├─ outputs/
 │  ├─ Dados_climaticos_historicos.txt
 │  └─ Dados_climaticos_historicos_rio.txt
+├─ Exercícios Python.pdf
 └─ README.md
