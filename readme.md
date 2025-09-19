@@ -20,10 +20,10 @@ clima_project/
 ├─ atividade_05_matplotlib/      # Atividade 5 (plots comparativos)
 │  └─ atividade5.ipynb
 ├─ atividade_06_pandas/          # Atividade 6 (Pandas análises e relatório xlsx)
-│  └─ atividade6.py
+│  └─ atividade6.ipynb
 ├─ data/
 │  └─ Dados_climaticos_historicos.xlsx  # Base de dados climática
 ├─ outputs/
-│  ├─ macae.txt
-│  └─ rio_de_janeiro.txt
+│  ├─ Dados_climaticos_historicos.txt
+│  └─ Dados_climaticos_historicos_rio.txt
 └─ README.md
